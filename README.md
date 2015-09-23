@@ -1,6 +1,8 @@
-# Jogo_Tetris
+# Jogo Tetris
+
 
 Jogo criado em Java, utilizando o Netbeans.
+
 
 ## Contribuidores
 
